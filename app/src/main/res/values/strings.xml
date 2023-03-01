@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Weather App</string>
+    <string name="fetching_data">Fetching Data...</string>
+    <string name="humidity">Humidity</string>
+    <string name="refresh">refresh</string>
+
+</resources>
